@@ -29,6 +29,13 @@ __pycache__/
 dataset_raw/
 clean_train_dataset.jsonl
 
+# Secrets & API Keys
+.env
+*.env
+*token*
+*secret*
+*.key
+
 # OS files
 .DS_Store
 Thumbs.db
