@@ -24,8 +24,8 @@
 
 Веса моделей в квантовании **Q4_K_M** опубликованы в открытом доступе на **Hugging Face**:
 
-* **[Tabis 1.0 (4B Parameters) — GGUF](https://huggingface.co/)** *(2.52 ГБ) — оптимальная модель для диалогов и перевода*
-* **[Tabis 1.0 (0.8B Parameters) — GGUF](https://huggingface.co/)** *(504 МБ) — ультралегкая версия для слабых ПК и ноутбуков*
+* **[Tabis 1.0 (4B Parameters) — GGUF](https://huggingface.co/chairus/tabis-sakha-slm/blob/main/tabis1.0_4b.gguf)** *(2.52 ГБ) — флагманская модель для диалогов и перевода*
+* **[Tabis 1.0 (0.8B Parameters) — GGUF](https://huggingface.co/chairus/tabis-sakha-slm/blob/main/tabis1.0_0.8b.gguf)** *(504 МБ) — ультралегкая версия для слабых ПК и мобильных чипов*
 
 ---
 
